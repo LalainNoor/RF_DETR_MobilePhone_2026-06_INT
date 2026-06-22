@@ -17,3 +17,7 @@ Hardware:
 
 Task:
 Train and evaluate RF-DETR for mobile phone object detection.
+
+## Checkpoints
+
+Training checkpoints (~1.5 GB) were generated successfully during experimentation but are not included in this repository due to GitHub file size limitations. They can be shared separately upon request.
